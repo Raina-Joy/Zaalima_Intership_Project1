@@ -131,8 +131,4 @@ Or explore interactively via the **Streamlit dashboard**.
 
 ---
 
-## 🧾 License
 
-MIT License © 2025 — Developed by [Your Name]
-
----
